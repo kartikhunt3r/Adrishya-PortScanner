@@ -45,6 +45,15 @@ python3 portscanner.py -t scanme.nmap.org -m 1 -T 30
 
 ```
 
+
+## Run With Proxy:
+
+
+```bash
+python3 portscanner.py -t scanme.nmap.org -p 98.178.72.21:10919  -m 1 -T 30
+```
+
+
 ## Options:
 
 
