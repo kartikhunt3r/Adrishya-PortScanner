@@ -9,12 +9,12 @@ A fast port scanner with proxy support. written in python.
 - customizable threading options
 - faster than Nmap scan
 - customizable scanning options: 
-     - [1]:Scan PORT 1-1024
-     - [2]:Scan PORT 1-48128
-     - [3]:Scan Only Important Port(Fast Scanning) 
-     - [4]:Custom(Range)
-     - [5]:Custom(Specific) PORT 
-     - [6]:Full Scan(All Ports)
+     - 1:Scan PORT 1-1024
+     - 2:Scan PORT 1-48128
+     - 3:Scan Only Important Port(Fast Scanning)
+     - 4:Custom(Range)
+     - 5:Custom(Specific) PORT
+     - 6:Full Scan(All Ports)
 - verbose output 
 
 ## Demo:
