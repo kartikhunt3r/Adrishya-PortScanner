@@ -169,7 +169,13 @@ threads = option.threads
 target=option.target
 proxy_ip=option.proxy_ip
 verbose=option.verbose
-run_scanner(threads, mode)
+
+
+try:
+	run_scanner(threads, mode)
+
+except KeyboardInterrupt:
+	print(colors.FAIL,"\n Scan Stopped By User.\n")
 
 
 
