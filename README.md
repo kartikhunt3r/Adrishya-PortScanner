@@ -22,8 +22,6 @@ A fast port scanner with proxy support. written in python.
 
 [![Demo](https://img.youtube.com/vi/weVOMSwKaGU/0.jpg)](https://youtu.be/weVOMSwKaGU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/weVOMSwKaGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## Installation:
