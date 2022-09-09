@@ -21,7 +21,7 @@ A fast port scanner with proxy support. written in python.
 
 
 
-## Installation
+## Installation:
 
 
 ```bash
@@ -45,7 +45,7 @@ python3 portscanner.py -t scanme.nmap.org -m 1 -T 30
 
 ```
 
-## options:
+## Options:
 
 
 ```bash
